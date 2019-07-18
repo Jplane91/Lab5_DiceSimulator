@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0DA8CAE2-71CD-42D0-AD76-6DAD30F5C721}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiceSimulator/Program.cs">
+    <Files>
+      <File FileName="DiceSimulator/Program.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiceSimulator" expanded="True">
+            <Node name="DiceSimulator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DiceSimulator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
